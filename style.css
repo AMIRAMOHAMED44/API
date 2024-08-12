@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: black; */
+    background-color: rgb(226, 220, 226);
+    padding: 2%;
+}
+#left{
+    width: 25%;
+    background-color: rgb(226, 161, 226);
+    border-radius: 40px;
+    padding: 2%;
+}
+#right{
+    width: 70%;
+    background-color: rgb(57, 109, 91);
+    /* border-radius: 40px; */
+    padding: 2%;
+
+
+}
+
