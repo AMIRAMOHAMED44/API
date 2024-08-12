@@ -3,12 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(226, 220, 226);
+}
+.head{
+    color: rgb(57, 109, 91);
+    text-align: center;
+    font-size: 50px;
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 4px 8px 10px rgb(226, 161, 226) ;
+}
 .main{
     width: 100%;
     display: flex;
     justify-content: space-evenly;
     /* background-color: black; */
-    background-color: rgb(226, 220, 226);
     padding: 2%;
 }
 #left{
